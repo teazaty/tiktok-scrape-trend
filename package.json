@@ -1,0 +1,19 @@
+{
+  "name": "tiktok-scrape-trend",
+  "version": "1.0.0",
+  "description": "Script to scrape trending TikTok video URLs",
+  "main": "trend.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teazaty/tiktok-scrape-trend.git"
+  },
+  "author": "zaty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teazaty/tiktok-scrape-trend/issues"
+  },
+  "homepage": "https://github.com/teazaty/tiktok-scrape-trend#readme"
+}
